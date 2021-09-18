@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Robust Devs juned jahid Tamal
+          Robust Devs juned jahid Tamal Datta
         </a>
       </header>
     </div>
