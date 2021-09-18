@@ -15,11 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
-          Robust Devs juned ahmed jahid Tamal
-=======
           Robust Devs juned jahid Tamal Datta
->>>>>>> 4e460294487e23a554bfb018d439de247dcf450c
         </a>
       </header>
     </div>
