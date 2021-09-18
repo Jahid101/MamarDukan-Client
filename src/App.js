@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Robust Devs juned jahid Tamal Datta, Sahadat Hossain
+          Learn React and development web
         </a>
       </header>
     </div>
